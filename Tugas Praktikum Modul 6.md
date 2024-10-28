@@ -51,9 +51,9 @@ Format inputan per transaksi berisikan data sebagai berikut:
 
 Contoh :
 Format Input Output:
-(![Alt text](iof.png))
+![Alt text](iof.png)
 Setelahnya tambahkan fitur untuk menghapus makanan yang dipilih
-![[Pasted image 20241028123515.png]]
+![Alt text](del.png)
 Dalam pembuatan program anda dapat membuat menu sederhana agar user dapat memilih untuk menambah, menampilkan, atau menghapus makanan.
 ### Video: Jelaskan alur program yang dibuat. Bagaimana proses traversal digunakan untuk menambah dan menghapus menu makanan?
 
