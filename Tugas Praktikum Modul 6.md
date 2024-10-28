@@ -51,7 +51,7 @@ Format inputan per transaksi berisikan data sebagai berikut:
 
 Contoh :
 Format Input Output:
-[![[iof.png]]](https://github.com/digilabui/TugasPraktikum6-2024/blob/main/iof.png)
+(![Alt text](iof.png))
 Setelahnya tambahkan fitur untuk menghapus makanan yang dipilih
 ![[Pasted image 20241028123515.png]]
 Dalam pembuatan program anda dapat membuat menu sederhana agar user dapat memilih untuk menambah, menampilkan, atau menghapus makanan.
